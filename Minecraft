@@ -1,0 +1,158 @@
+<html>
+    <head>
+    <title>Minecraft</title>
+    </head> 
+    <body>
+     <header>
+         
+     <h1><img src="https://i.postimg.cc/FRRDNJnb/unnamed-2.png"/>
+     </h1>
+<p>
+         ╔════════════════════════════════════════════════════════════════════════════════════╗
+     <nav>
+        <a href="#інформація">Інформація</a> 
+        <a href="#версії">Версії</a>
+        <a href="#майн">Ще більше інформації</a>
+     </nav>
+        ╚════════════════════════════════════════════════════════════════════════════════════╝
+     </p>
+     </header>
+     <main>
+      <p id="інформація">╔════════════════════════════════════════════════════════════════════════════════════╗</p>  
+    <p class="text">       Minecraft (від англ. mine - "шахта; добувати" + craft - "ремесло; створювати") - комп'ютерна інді-гра в жанрі пісочниці, створена шведським програмістом Маркусом Перссоном і випущена його студією Mojang AB. У 2009 році Персон опублікував початкову версію гри; Наприкінці 2011 року було випущено стабільну версію для комп'ютерів Windows, Linux і macOS з поширенням через офіційний сайт. У наступні роки Minecraft була портована на мобільні пристрої під керуванням Android, iOS та Windows Phone; на ігрові приставки PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, Xbox One, New Nintendo 3DS, Nintendo Switch та Wii U; та інші платформи. У 2014 році корпорація Microsoft придбала права на Minecraft разом із студією Mojang AB за 2,5 мільярда доларів. У 2017 році було випущено мультиплатформну версію гри, що об'єднала різні версії для різних пристроїв.</p><p>╚════════════════════════════════════════════════════════════════════════════════════╝</p>
+<p>╔════════════════════════════════════════════════════════════════════════════════════╗</p>
+    <p class="text">Компанія Microsoft купила права на Minecraft та її студію-розробника Mojang за $2,5 млрд у вересні 2014 року та Маркус Перссон з деякими іншими розробниками пішов із компанії. На честь свого 11-річчя Mojang оголосила про повний ребрендінг і перейменувала студію на Mojang Studios.</p>
+<p>╚════════════════════════════════════════════════════════════════════════════════════╝</p>
+<p>╔════════════════════════════════════════════════════════════════════════════════════╗</p>
+ <p><img src="https://focus.ua/static/storage/thumbs/1200x630/b/42/c4dd6fe7-c31d2c43aadcbd194ec7df2f7981742b.jpg?v=8471_1"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3iQcKEZ4pMBqonGuO6hfW4hQgfKgPLLA_g&usqp=CAU"/> 
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYUFBQXFxYYGRkYGRkXGRogIRgdIBgZGCAZHRgcHyoiHBwnHSIZIzQjJysuMTExHCE2OzYwOiowMS4BCwsLDw4PHRERHS4oIic0MTgyNTEyMDgwMDAyMDEwMDgyMDIwMDAwODAuMDgwODIzMDAwMDgwMDAwMjAwMDAwMP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAECB//EAEcQAAIBAgQDBQUFBQUHAwUAAAECEQADBBIhMQVBUQYTImFxMoGRobEHQlLB0RQjYtLwFTNykvEWU1SCorLhF0OTJGODwuP/xAAbAQACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EADARAAICAQQBAwIFAwUBAAAAAAECABEDBBIhMVETQWEFIhRxgZGhMrHBIzPR8PFC/9oADAMBAAIRAxEAPwCXs5cC3YJAzKRJIGsg7nbnVvGEJEgg+lIcX2cH3SVPRhp8d/rSRrbW2IBIKkiVJGxivSvjTUtuRqP5TkK7YRtYS54rAZlKusrz/oailV7s7ZO2ZfQz/wB0/Wkv7bdkHvbkjY94360XhePXlPiIuDpcE+/NvPvqhps+MfaZDlxufuE6vdmm+7cU/wCIEfSa7wnHLuGPdNbRskLuwOgEazG0cqa8K4wl4kNbVCIj94BO+0x+e9QcS7Pd45cFlLRyzDYDcRQ+sS2zUdf98SynG7FJsP2utn20dPSGHx0PypjhuMWLns3EnoTlPwaDVNucLuhygQmDvEA+cnStjhVw6ZSD0P67UT6bAeQ1frIubKOxcvF7HWk9u4i/4nUfImpAQwkQw6jUfGqFc4Y67rHy+e1QhXTYss9CRPw3oRoVYfa//f3hfiWB5WX69ZHJT7v0pXjeFWrhJZNeo0Pvjf3zVTUkHMCQ3UEz8d6Y4bjt9dCwuDpcE/8AVo3zqfg8icof8SvxCNwyzjjHBRZUOrkgkCCNdidxvt0pXlp1xHF3b6he5gA5vCG6EbnTnQF7BOglkIHXl8dq24MhC05FzNkQXajiCZa7XDOdQjEeSk11kq14DHWHP96Fb8LjL85g+41NRnbGAQt/4kx4lc8mpVLN5l5yOhrs4tug+dW7H8GV9Wtgn8S7n3jU++hk4Av+5+M/mazfjsR5INx34ZxwDKvdvswgxFcWnZSGUlSNiDBHvFXFOCRtZT4JWsdwNGUBlytHtLHz5GrGvx9VxIdK/d8wLhPav7t4f/kUf9yj6j4U3TtBhz/7gHqGH1FVLiHC3tHxCV5MNvf0Pl9aFQQQYmCDHXyqHSYcn3J/HUgz5E+1v5npCmRI1FZSzgmJW4JtuQfvIw+Y11HmPf0prFcpgVNGblIIsSG4VOhIpH2gaAqDWTMjy/1+VPr1mfWk3HrQNpgw10jybkfrTMJAcXAyA7TEcUpfckbSaL/ZD1rX7GeoruY2Vfec5wW9oJFZFEXLJXeo8tODA8iLK1G3ZzjYsBkcMykhhljQ7HcjQiPh506TtZYO/eD1UfkTVPy1rLWTJo8bsWN3HJnZBQl7Tjtg/f8A+lv0ovDYpLgJRswG+/51SVdORFOuz3EbKBw9xFJIiSOhrn5tMFUlbmvHms0alhrdD2+IWm9m7bPo6/rRC67a+lZOfeaAQepqspXx3jgsFVy52bUiYhdpmDufoaB/2xH+6P8AnH8tNTT5XFqvH6RTZkU0TIL/AGkvn7iKJ/CTp0MmPfpSe6xuOWPtMZ0EfLpRQxR6V2uIUkSI8+ldNFGPlVqY2O/swf8As59wJHkDUuH4cSJKk+k6Vb8Fw5QgkT6Hb4c6mTAIORM9TWRte3QE0DTCUv8AsonYN8KJweLvWVCBVIHXMDvO4Iq2rgUE+H4k1y/D0PUe/wDWltq94pxYhDT7eVNRDguJ22aLqm35lpB/6dPjTazh7T6o+YfwsD9Khx3AVZTAE8oEEfPWkt7gFxdQfiCP1oQMT9Haf4l269i484q9mwneXbndrIWW1knYAATSG9xPB3mW2l+3nZoXwsMx/D4gBJ9aW/sVx8YisSDZQ3ST4vE8205/hF35UN9o/DnfDZwXL23Vra2lOrkxmO50GY6RWTJmOLJSm695oXEHSyJ3xG5btSWaFByyZ3mI03oNOPYdCGNwCCD4gwEjWJis7KYa9fW3fvubbW3OW2yQDFvJ3jSA0klzAMbV12nud/c4fhz7Vy6t24IIgIoJEH1b4VpyfVTdKLHzErohVsefiObXbjCAeMNPq0e8lRFc3+3GHZSEUgEEAy5Go39jX40F9pVx0wbhSP3rJbAgySWmAZ6A8qeJw4raW0rZQqBJAGwXLpNYxq6N7f7/APMf6HtZ/iVm5xKyoUlxDrmWAxleug2rg8aw8gd5qdhlaT6CJNSdjOFXbd7EICwt2YsWzcQ+NQ9xydxOpgEaRFd4gMeMIMufu8MWAWBGZiv3mA59edam+rP7KIkaFa5JneC7UC1/d3mA6ZHI/wApWKJPbwr4mviB+K0QOmpyD61vtbxnEYdbTWcObpctmXKxywBE5Nt6pXaftXir+Ha3cwvdW2Ky+W5yYEatpqQKSfqBY2UH7QxpQvAYz07h/b/DPAuFkPUJcKn35ZH9a0ae2OC/34/+O5/JSvEXxasFtZS2TqrRokiWiI99efD7Ur//AA9n43P5qznOSbAqOGIDsz0q72qwDA5cQpGxGS4RtMez05Gq7xTiWFDDunYgiSMlyAZ2ErSv7N8Qz2LrZG1xPeEqAQMwSRE5tBPI1ZcHxC6+Lu2TaItLbV0uZXGYnLKknSRJ030pmLWvjNiC+mTIOYow3aGwGCF4O4GR558sskb60aO0dobXrg9Fvfy0Fxt1HFMFDKSVu22AIJXwmAQNRq3Op+0HaB8HdJv933DKRZCBjdLhVMsCwXIDI0I3WmN9Qdje0QBpVA7MIbtbbUScRcUdWF0D4ssVl/tPbuABrrMBqP3Vz8koHiC3cRwq+902mJRnU2SxUqkOPa1mVM+lOuzF43cLh7k6taST5gZT8waH8c3e0Qvwy+TFo45YP32/+O5/LUNrtFh2nKWaDBKo7AHpIXfypP8A7VY+27f/AEDRMQFvFc2ZpZT0adhpoKTcN7X38G95WsAG65u5HDrkLdAdYOm/SjH1F/AgHSJ5Mt2L4zZIGrwJJm1cEf8ATXOHxaOSFJkAEgqymDIBhgNND8KsPCrwxOGt3IH722CRyBKwR6AyKSdjzisVc7+7ZCJaR7BIDHvmzLJ10hWU69WYdYfh+pvuCkCovJo0qweZtLZJAG5MCj34I/JlPxH5U8weAQ3AMoU6wQo3j9Jo1+FHkw98j9a05dexI28RKaUf/UrvC+GlHzPGg8MHmefw+tNGWd9fWnGCw5VcrQdT5122FQ/dHwj6VkyZmdrMeuIIKErz4O2d0X/KKiPCrO+QA+RI+hqxNw9OhHoT+dRNwwcmI9YP6VQysOiZZQHsCV67we22svP+KfqDUX9gr+NvgKsTcLPJh75H61x/Z7+Xxpg1OQdEwDhQ+0quSt5KIFmt9zXV3zHtkdpyu2lStjHOjGQOpOnzrfc1sWaA7T2IYsTu1xBxsWHoxqW1xu+Pvz5FQfnE/OorGELMFHOmI7Ptrr6bVnc4QaIENd56kF3j94xGVf8ACN/iTWrPGbhZe8dso/AANepEifTbyom52fPJvp/4pZxbhl4WrgQAOVYISdA0EA/Gg/0CKAH+YVZAeZzwfHIz3L7sqriXd7bO4H7q3ksppAAzAF9D94mueznaFcS+I9hbVm53aPn/ALyJlugXaCN5quf7dC0vcrhHtXbVtbMftDDJlBCyqoMw1mec715tZzrcAgliYjcsSY+M/WuCQSTc6YNDie5dkeLtjLb3cgVBddLZBJzqseP3zHuNKsMnfcaundcNhwno7wf+1mHupR2f7djCWUwxwbBkknM5QtmZmzZWtyBJPwpZwPtqbF3FObGa5iLq3Z7yIRWLd2PAZ0JWdN9tKGiJdiWnt2veYrh+HAJzXjeYCNrcHnptnoj7Q+KPZwV1kFy25KKr6CCXEwQ0+yGqpY3tyDxGzjGw/hS0bSp3mzHNL5sm5DRt76H7c9sXxmGt2jZyFHV3bPOYhWX2cogSZ3NSpLnofZ/i9u9hkuoLjoqhS7ASxUAMfE0kz8aUcHCtxjHMzAZLdq2JIG6oTE+YNVzsx26/Z8Hbwww+YowYsbkZh3venw5NJXSZNQcI7aG1fxzmwGbElWA7yMgGeBOQ5vaA5bVKkuXHtx2ovYJ7S2rAu51Ymc/hggD2ffVD7S9sr+Iw37O+HFpJXxeOdDIHi01P0q3v9qkgxhYkHXv/AP8AlVY7adsBicMLAsd2cyMzm6WLZQwiCo5kneoBITPTON4cphL+7FbF31MW26D6CvLrPZTBlVJxFwEgSMuxjUezVmvfao5ZSmGQLPiBuEkj+FgoAPqDt8Or32pEshGGgKxLDvvaGRlj+701IPPamY3C3YB/OAw3dGpv7MFS2uJt2ybii+qqREnwbmSB9005fjp/b/2N7QVGsm4GOpOpEQpIy6GqL2a7ZdzfxF3uMy3cQb2XvIyn95pmyGR4ug2FS4jtzm4lbxQsRksm0bfebglzOfJpqw0jlQHk3DBoVHvbPh1mzfwGItW1QtiUV2VYLAkDX3A1ZO0WAw4UYjEW864dXbUZoDQG8B0bYb7RXnvbTtycVbs2xY7t0updDC4TJUMIjII36namXH/tL72xetthgq3bbWwe9mCwIn+71iRp86qpLEtnCUwv7Kq2WCWHRioYxAuSxnMdNWOm1K/souZsCEOps3bls8+YfTy8VJOzH2iHD4W1YfDZzbWM3e5ZEkjw5DECBvyoLsl24OHfEv8As+dL91ryr3kZJJMTkM6EDYezUqXYjPtr26u4bEPh+4QhGtuGLMMw8NwactdJ8jVL7a8Su4m5axNyz3S3LcJBJDhXYFpPmY9wq3tw9OL3mxNy09m2iraGVwe8ZWZiZKDQAhdK5+1jhtsYTDslvKbLd2Y2yMumnKCoHvpwwNs3RRyDdth32R8TDYU2irE2nMZVJGVjmExsc2f4U4wuKezcxNtHdP3i3kVh9y6GzQrD/fJcP/NXnP2fdo2wVy4+QXEuIoK5suoMgzlO0sIjnVwwnHXx99Lq4fuktJcts5uZg5YowUDINVKzP8Ro9ILzDjiDn/2zLFb7RXhvkb1X+UijMP2nJMNbHqGj5EfnSfua0bNd46fEfac0ZHHvLPb47aO4ce4EfI/lRC8Usn/3FH+I5f8Auiqf3VY1s85pJ0a+xjPXbxLyjhtVII6gz9K3VESyRqJnqKItY+8u11/eZ+TTSm0R9mhDUeRLnFaiqxa7Q3xuEb1EH5GPlXd7tLdnwoqjpqfnFB+Fy/H7w/XWZ+z1Pb4dIB/r60y7kdK7CUTZiepQxiLP7NNa/s801y1mWh9ZvMvYIqGGZTIkeYqTPc/G3xpi1ma5/ZxU9S+5NniBpibg+9PqBWxiLnMz6gflRXcVvuKHcvgS6MqvaTslaxZDPKXBtcSJjfKZEFfXblzpXgfs3s271u8b1xzbYOAwSCQZEwAd4NXwWxMSJ6V33FAQhNkQhuAq5Vu0XZa1ilUOSjqfC6xIB3XUQQehpE32V2SQTfvabaJ/LXo/cVncVGCMbIkG4CgZ5xc+y20wg37xHpb/AJa6P2XWiI/aLsbbW/5a9F7it9xQ7MfiXb+ZRMd9nlm4LQFy4ht2ltSoXxhdi0jfU7flQX/pZanN392dpi3/AC16R3FYbFQrjPYkBbzPOv8A0wt/8Re+Fv8Alrl/sttMIOIvEdIT+WvRu5oe5chnUKWKIrkAiTmLgBRzPgbpuPcLDEosiWN54BlCH2YW/wDiLv8Alt/y1h+zC3/xF3/Lb/lq7X+IBLJvXLVxFG4OUsNY1VWIif4ufuorEWe7YS0hhPp7qBXwMaAhsmRRZ6nnqfZZZExfuid9Lf5rWl+y2yCSL96Tvpb+mWvRhZrO4p2zH4i9z+Z5y32XWiQxv3pG2lv6Za1c+y6029+8Y1Gib/5a9H7itdxU2Y/Em5/M86f7MLREG/eg+Vsf/rWh9mVsCO/uxttb/lr0XuK13FXsxeJW5/MV8MwCW7aWkGVEAVR5fmefvqPtB2eXE2HsuYVo1WJEMGBE+lOO4rdu3BomoipQBEoA+y20Im/ejpCCR0kLpVlscLW0ipbUKiiFA5CrDk9RWmw49/WhxsMZ4EtwW7lf/Z66GC0ptdwwrjujWn1iRxF+mIqODNdnBeVMspreXyoTmaT0xFyYSBWHDU0S0DzrtsEfI0BzEGWMcSNgx0rn9hHnTlsN1Fc9zVjUHzKOIQ/u667upQtby1l3TRUiFuti3UuWt5ardJUh7ut93Q44gBJaAACZOm2uvT1quL22cgkW0OugzHptPr5H0oS9SBblodlEydq28AZuX1rz3G9o+9urOZDbZoyEeL/ETtsNY5mmo7XQCpGYCIgkA6AncH05VTPXcoGOrzhZcmAJJJ5UNc7XYdUB8THTQLHOCdYHXT/WlvEO0Nl8PcClgzArlI11ETIkR51Te9YgabeR08/KrU7ujBLBZ63gsZbuotxG8LbTodyNuWoNEi3VG7G8ShDabcMSJ6H8PoZMefrVrw+KIGhkef8AWlS+ahDkXD+6oLiePW0snqBr5mJ+MUH2g7SrYTdQ7A5Z5GOnON9dKpVrFviLujFyNTOUaSBpqBSspPpsQa4PPzCVlDi+vf8AKXkcS9Ki4lxgW1UmNZHTURz9/wAqj4XgoCXJDLzAnaNCInNrGlZx3CW7yrbN5Fuhi3RiuogpM6BlBPlOlcHSZsy5N2RuPe+eJ0tSuLZSD9YNZ4mG1JPUHXT3/nQXEOOKGYgqSEVmZnyoiDPmaVkm4NIUiDO4oPCYk4YX3uESjpYQ8vGHL/8AQoNJsFaa5chLyANocpRjB5ZWBFdnJnU/aSPavmc9QFomWLi2OY4e6lyAWto6ZXLB171JLT7LgggATpzG1PeK4wZwBrCgH6/nSJeEhLLXbt0tl0zPlAALKuwAUD3UXw9O+bLaIYKozNoFX7oGY6EnXadjSPUGN7PP5RztuQKB0Sf3jzAXJESPLzqq8U+03DW7ht20ZyrFWZpVZBg5fCSdeoFdYzjLWmdVUHJMklQNOjTVdvYLDqVBS25ZS7FlGYMXbwmRJHPPoOXKifWFlBWx+fH7X3K0+NXYg+1fzLhwHtpaxJIRPZgt4joDMboJ2NWdrdUXs5wm2hN21C5rdsuqgAKdTl6EiT4hoYEVeLGIBkSDB3BBHyo9Nmdidxv9pedFSgJvu6zu6lXWt5a27pmqQ91XPdUTlrWWpukqD93W8tTZa1lq90lQfuq57qictZlq90qoL3VZ3VEZa0Vq98lQfu6lt3I3k11lrRWoTfcqpjXR0qIgdK7itRUAEuGha6y1GmKQmJ952+NdLikJiffyNJsw5ttKixV4Ks7zoKkvsCNCD6Ug4zxtLOQXc3izFQon2Ynn5ioJRNRZ2v4itqxlYmX0ABiRpm/5Y0PqKoNi4yqfGQFcNIGoEfLnt1ontT2lOJKwmUKSQCZ5kTmgaRGkb9aEsrNsoVPigk9DroPfB+FUw9z1E7gxoTrDYnvHZ9BJPQb+Q293Op3mdKGwuBdBqRqRBHvn3+XOKJUaaxVZaBsHiHjb7aPc6tvU6XwpkPGmonf1FKcZxEJIADMpEjpPPz15TSu1al8xZjpPsxObXQ5qyO+3kSnfxHt7iOXVZI6hWAG+oY6cuR6U9bte37M+TR1C5SfQFySDpEH41TgFn2ecnXf5UFxHHnVFnKd9tDI6ASBUTUMxiwzGPe0XaF8VcBCDIu2YHWYzEEHmQIB2FScCt3O5vXEgubi21EbLkzHnruPhVRscQK6QNTuZ+lN+GY3FWcwsCUdpL5QdRpIzGJiaHL6jKRfHyeI3HW63HEsVvEYgWlQX3VB9xTpJMnaJ1nqKL4eim+j5AUtNIRgPEGkNI5yOXkDSLB32Sys3SN9DazEakAT3gnSDtzozDuRnud5mdFVlEADS4hYwrH7mcT0Y1hZLPz1HYfWWrB28Hr2hvaxrNgjDqCy/tN2+wnSGs2ltgMNvCxOXlrsCKX8Pu2O8VkDW3UypABg/P50N2p4nZutNqZzCSQw9kFZ10B2Gg1AE7ClnDLh71devyU0ToWAIJBAjcunLNwZ6B/tCTbNpgboO+ZVE65vuiOXTlWnxLpYwyIMouILzldM1xy0Bo2ESANgTQnB8QiakNmImYHwGu3WjcfjwbJtoGyfeXUadcwmIMbbaRtQKjbSWJJP9psxaJkAZjcGx2GmyxHkW95j6/SqrxHDXC83GbNlC+E5ZXVhosTvPvq7YTFC5aIy7+0PfOp89KRcXxKG+4LqGkAgmPujrXQ+ng5LRxYA4+Jh+pqcCjLiFEnmvf5MK7N4q6LLpEhBbkLuFGYD15VbOx+ORy66h5EqwiVA3HXWfTSkHYwAftMn/ANqPjnqtvxO7Za33RgiCDzBk6gzpT84KN6eMAXOfpv8AV/1srHiX7tF2ybCXrloWe8yorghjsxjxQPBHXWZXrQOB+1Fde+sEeJiO7OyQCk5j4nJkH2RsfSicR4o1+6964BncgsQNNFCiBOggCucLi8rh4UxqMwBGhB1HuH0pihgo3dw2yEt9p4nty8UVrdu4mouKriY9kieRInlvR1UHs92oW4kXglrKojLOUgToqx4QBECedXLs/wATtYi1ntNmCsVJhhqAD94a6Ea0ViOVgYZlrRWpctaIqXCqRZa0RQ3FuL2sOrNcOi7xEzBMCd2PSqXgO273bjNdGRCgXIpLZTPtbCZBPwFEAT1AZ1U0Zd7V8MYFdlaT9mOIi+MwEDM6gHoNRPnEU9y1d1CHIkJWtFalK1orVgyVIctZlqQrWstXcqpXRxodJ9P9aj/t9c0SuvIn+taKt9n0BzM7E7QNF+G9GYbh9q3qqx5/rO9c1tWB1HbB4iLC4++9w3LfeXEI0VVBQwBrmmBz10oHtNgsZisqLhsmQ6M1xY8+eoOnwq7gzQfEOK2rCM91wFTU6gncDaZO4+NK/GOeAJRxrXJnni9h8SjyUUmJzB1CJM6S2unpSjGYxUfu8wuESMyCQSN4aBNSdo+3N3Em4ouMlnMQECrqsmMx3PIkTGlI7WImfG7ZRl1MAxrMUTZcjctMxcKKURwOIeEjLJP3Z2Hw06/6UJ+0NnLE5egzMQNI2670rt3c58RUK2wEiCNddNfX0oprc6KSGOxO3vABNT1GA2mLJZjDsJwIsM7XFYGTIBOh6iZn1FS4FMOtzKLqnMIkglQegXL4SZ6/CgcVca2uXMBPJQYOkE+L9KAsMAyHbxCfj0jSrCs3JP5cR4wDpuI6bgmDSWuXL10cwMqr8CJ+dT8Fw2HvK1u2Lpt+GbJE6+Iz3wYBVnyG3OaUcRxcnKrARqZnXy2qHg9yXPofqKWcL7Tybj/TS9qmWb+w7dqYbDAEEhHTPkPkxbMw9aQcV4khLW1t2Mv47dqNxBKgkR6+lS469CwNz05DmaU3cNrsZO0gD5STV4sNcu1mLyIq8A8y0cOwE27QCsxZdG0jxE6gE6b8qTYO7F0FdFkghjyIysOh0Jp3hOI2rVm2rteDJbQRBC5go0naJqqJcI2PnUZK5Wai7MihT1O7h1PqfrUuCuQ4Pr/2mhs1d4e4FYEiR6xy6xUI4h7tovxLpwW9FpV8JBJcszahjpGpkLAByjQGTGtHJdEBj4AitoI8UspGYiZMjSIjMZnlWMHxa2sACBIkN6GfFMfh6bGjktx/d25XU7jU6c9jPWeVKOQCrmrHrsO1RcsWMvMO6VSPEBE9BlGg5789tNKp/afCHvmuCAGcg/OCPWKst24G7ssAO7UKGJ12WdeQ0HwpB2iuh2VV1UAknkWJ684A+dP+n5mOpCp1zZ+Jl1OpGVti+3v5jPsnYYYbES4AICLmbKAesjWBmGm29c2LsSgS2+u7DMvuonC8IuXMPbRMsKZIYkSY5GI0kjWmvCuyTuokBG2Mtr8BIPrS/qWcZNSVB68d3EDZW09X7d3Kbewyd6VYrbA1mDAExoBpHwFNh2SS+oexiEOn3oynzzoTHpBqy4n7NTd0fED2coYqzFRrosuBpJ/Sklrs1ewWIZXEpkyW7gmHDuq6dGECVJ06wRLWyuqbgeoKYMZ4I7iHiGHu4a4bNwKSqqZQyBIkakdOUTXov2fcVtJbNpXDEKGKgiSxhmI6gExPlVc412ae9ce5bIIYyFJGgAhdTBmAOvrSbhuHvYe8jvaY5STlGjbETlImPUR560/Dnx5F/qFjsTGT6bnxPY7mKI8XynSvLu2PF2xGKYzKW/3aAbaGWIjmW5zsq09/2xw8G1LDKIzRoTzAA1nzI6+U+eYq4DccropZiJ00kkaela1AMj5OqMMxWMdml2LEQPESYAnTUnSSdPWmPAb4DMDEFef09N6rVm5vFMuG4iGPmD7vh+vOmOKWJQkvzPQeyL90zqBv+8WZ6BCPdprznyq62mzAHSYBNeM4fjV2ww7tsuaM2Yab852HMxrXruDvhVJYgaTPLQH4DzpLA0CZrQiyBCitaK0Lh+KLcBKEMASJExI0OvP1GldPfJ8vSqEPiTla1lqBbx6zXf7UOcT61dySkL21F9ctoNbuZgBMEssaxyGvL+gxs8WvBQblvcwDqs7bAjQyfvRPxNUXhuJs4Z/3/iuCWU2pzBSBl0YgCZOoJ0NHdoOOWGtThy+dxDI+yBkOZtBLPOXUHpyEDinGd1VxFplscmNOIfaGtolFss5/HMLrEQFEz122pZjO2a3bdxRh0GcMrgRJVhlJLKkzE79N6pnf5AJJYzEsPU67n51qzczeLSOsmBrrvpuOdN9MVFnKxkOO4WyMAHR84JBXNGnqok+kxzoZHOo6gH+vjXd+8WYzJ00OunLYVrDPGjqpGwMCR5RsZ+NN5rmVIrdtiy5WC+Lc7fSrJbQW1JOh+9DEgwTAGg+lV21ayiM089c3Py5HYe6j+IcQzAAbQD76PYWNCaMZVLZux1IcRiGdpG++4ED31E1zfrMzrp860qiJ3PKD9RFQ3X00AE776/Gn0u6lk3MVLN7ySRBaTP8AXOpMJdAckwBlOwH5UE13QiuSx1PpRhfuswNw2gQ43lY5mzazsRsNo0oyxj8qIyQG1DQBJ1kT+IRprSoEBgBJHOf/AAa6t3JHT0rPkTeOeoYA4WNeIcS7xIJ10On6UtmuCa1NIVAgoTUihBQnZNaJri20kjzNTNYIExp1FXYuN2mcByDRVriLLJEg66qYoMisqmRW7ES2FG7EZpx6596HHU6H4j9KacJ4mrHxOttZ2dSfPdTHxqqtXdu6wG/KgOKv6OIj8OVNqZ6la4qltQFOfTTLt1menpNcjjV646y0IGWUQxmAOxO5nbp5VXEvwNdhA+GlT4PEhr1tZhc3xMGB8Y99YMemvJbcm49dNtG5z+k9XbtJaVwNGDIHBLRuWEQREjLzIoj+2LF0Q6SJGh7txM6aBj9K834lai9mMHNb7sK2ymS3eCPvDadoJ0org9wi5bAgBMwuak94SQVIB9jKJGm811z4qQLYucdsP7Ss4wvh1Fyxdg21AVkSEAKvMd1qCZzAGZmZg/FXDfw6i44FxWXMLRzWp3lSwDNEDnGuhNcdp75YW0An2ifKSgBPQRm1OgpVZx+QZVhmBJzcl2GindtNyNJMDnWXP6agNQ3e3HMDZuO0C5JjeAuo8SC8CAZRmDDTlIj3KreR3pFf4AGEW2I8nHyPIdd5/h5U9xtpzbnMGzkMVLkM+UsN5AGhOrGDlA86ruExrWzKkFdAQQFDQIAJy+BojWSD1qYtRk27lIv+JgypscrA7nC7iEyu3Sduse0PeBUmHtlSZOv0p3a4vbcaqwgSPDm2GuUrIkVu7gUYZliCJ0zSB1KkZ8u3jh99cgrSv1Bn+1xUFNqm4jxDkjQbGNv65VYsJ2kuXbAw7knwhFI3AAiTEbRuaDfhzqY1MaxGsaawJkfxKWA5kUtvoUeRsdj6jka2YsyZBtH6Qt1GxLL2ed7DhiSQAQoB2ncwIE7/ACE7RYb3aORCqZP4j+nP4VRExMpudDry99SWcVO+nmZPnREVDVwOJa8X2kvKkAeP7pA+ZHP4/DlFg+M3QvjRnaSZzdTMe6lGEuaxP0j67++j0bSh7h2fMpvEbDq7s5GWQFdyDM6xHIbaRQqW4zEeIjVjG/uGp0oniGMDOqszN/CAImDrA1GhA3NRXWAU+GeiAmffHOsWqfGch9O6PmY8QYIN3fxBMQgdhKliAdAYnynkPSsvWkA3KAEkAGdd4nU/pRVsKDmyhDGwiTpsY29KT8VHjmdI0HTyHvn40tW3Guo4CSXuKkgg+LkDtr1Nbw0kZhrI2Ez5/wBTQ/DGUMZEnlyI060Teu66ifM8qcErgCPVakmHuZXDKT4WEmANJ9ZonEYf949xicoOhVlnPoYIMn5UFhcTDA+E6MPEFI2MGCImY1qNLp8QmdZ/80Sq3NQjVU06dyTuJ31qDEGQTOvSK5J1mu8GoLeIEpPigxy69fLSeo3DCNhvxKBDwcgkwASTsAJJ9woi/hHVR3nh00BOv+XcVa+H37TKRZygCAcq5Z88oObkdy3pVb4iPG/qeUfEQPmorONS2Rqqqj/RVVu7giAlsqzqdpA1+nxoy9wpraFmI3AyjXcxvQ2EVc65pyzrBg+4kGrhhsPbuIO6O2mpJjyIOo91Kz5zjrxEu20gyr2OG3W5ZR/Fp8t6bcFwHdW7l64DmHhVRB0MgnfmR8B5mGL3LKqPA5aPFLAANziBtM0tOKzzlQx0AJ+JjXf61n9V8liuIts7nibXBYe97MI52+7J8xsdemtQ4FPCS2kaR1PMR5ChMpX2gRO0g/QxMUTisRl/dpBgAEnkdzEddp8vgew+ePmdTTuSnIhlvhdq7EaTsV/Q0Hx3s++HVWLKyMYBGhmJ1Xl7iaM4HbYuDBgaks0gaby4LD3NRHbXFK1u2FYtDRtA0XcfH5VRZlyBQePeOCqULHuVJjXVoSwHUgfExUZNS4GO8STAzCZ5azWs8CZrljuGulwBYSwIG41IM8jpqP8ASnXC8DbADghzyYRHuonFYeRI99cptTRofvEajVBgVX942HDbl9VZVnwjWVHnzPnQfDMNlxL2Qs3LeXPqMtsMAQxPMwdANd/UQ9n+LXlNy33hyrkKjTSQZExMaDnT21fRM10wC2Uu/NiFAEndiNhv0FatRrCiWo5P+ZVVjDeYZieBW71vJcLTyZSR8tj76r+G7NpnJW6LttTHh0kjlm2I8xUfFePPelElbex6t69B5fHydcHQJbUbQJPlOprkM+QAsx5Mm50XcOAf5nR4XYuQCmRhzTTlAkbHTy99U/ttwp1uJkuhohDkVQ8MRoST4iPwzAzHbWnnFu0Wc5LJhRu/NvJeg89z9adfxyXrzWXByMwVCgUlSPDuROUmSY11PU1s+n4shYc8fMz6haQOw/LzUIwKWg4FwiZbxM4BzK0QcmhJBHtGfWj7/CfDltkCPZDSRzBVtYKkEjaR1pJiUcFu9iC2TMdBcIGmZASQSuoaAdNetE4fit1I8WZRPtQ3/KbqcxBgkaz0itGVGDWD/wAfpMnJ5E3huLXUY2WIQqBkzqN1Onj8IykCA2XnyijMJxRGZheGrGS7QIJ2VwACpjTNz613YsWcW+S9EAEoyO4yq0HPLALIjmPdSDhpL3rlmxnvKmbLcCtJSQJIWTkLEdQRrA1q1UMpI4I7/wDYYsywXuDc7Tegnf0P60K8qStwFHGhDCB5TO3vqDh9tpKLmRjAKkXEIJ9gnuxBOYRJAJk86ZDibECWJ0MB5IXbMhFwAEBhsw05XF2rTi1GQfY3Pz0ZL8QRXcGNvzowYxhpJHka6e2jDwQjDTIT4SZ9lWYgo2shH3nwsagNl9tRGhGfLB6FSQVPkQDWkZgfj84QaVrCuSSQ8jYqogAjnJ5V2zxoIHp+tC2cZmQEkCNDyE+nU/nWYkuFJCGAJJYEAD6z5DX5VhKm5e2S2rkk+HTSCDv1gVFxHBArmhsw13mB6cjW7F3KpgiPaAUbAjQE+fnuab8E4P39tbmaASfCNxBjUwfy3olrdyQB5Mo2osCVRQVAAGgM7b+proWmPr896uVvhFtTBQEjqZ/8UVbw6jZQPQAV6TFoR2DMb/UPapR0wT/hb4GprfDLn4SPWrslgHlUpsr0p40S+YhvqB8Sl2+FP1id949/lRuB4PdxC5FclLeYE6hLeupJjQ+Z1irQvFMDaXxjv7sTkBIQDozFRJ6gZhSPi/aVrqi2qWrVoNmFu0IElSss27GCR+VcjVsFbai38ke/mdLTkstuaJ8ePmK+Fs1h1mDafwlgZAnSDuCAY3B286GvqpePZXNGg9kT00iBy8Nd27pR5iUb216+Y84rm5cts4ygheZYyRr8BFc9RZubFe1qN7vB7AsXGQl2yMQxPMCYjYfWq/g+IPbMqSD1/LzHlUmH4i1uQNQRBHURERS+apUPIfkQ0x9hpb+F8Y8VwsiOSFYFgPDvtA5+vIVJd4u7yQRCkTlG0nTqRVRua6noPkAKaXXNgLaA8WSX8mJDfID50WHRKxZ/A/mA+m5tfiTcdxmcKokkeLX4c6GweDJIEx7tp2PptUL3c0GdZCzt1O/Ib/CpsFjGV1Wd2EzBjUAxqdxpPT1oXUkGaw2zjxLVw3haOYa+TAPhFuB0kHMRpXHabs4vctcS9/dqz5WTVoEkAhtNB0rmxZzi4slZQyw3HiFL8Njhft3mZHBtYe4ltjpmt5CskbFuZIMeVYkVy26+plGqc8DqVUmulaNq3g8M1xsqxMFtecch50UuCPcM+XxLcKtr7KhddJg+KujY6McWHRkmD4o9shlYqeeXn0kHQ896tHDe1Q2vLH8Sbe9d/hPpVWThplsxkIELBNT4xoBMDTczyrmzgbmV20C25nUEZhHhETJ13286zZcON4h8aHoy+PZwrTegPP4WOsawQDy132n3UJicbmhRAUbKuw9B+dI+FXm7ocpLE+esfQUfhUZ2CqJJrKcO0/cbqPw6evuc8D29oYl7eBJAmPIan4CasKcYIu3DBhcOLmWdFMZ9RzJzIs0hxeHS1dRXlhll8siZzQo200Hx91QWbqBlBJKsEF0ka7gsF8tIFJdQ/Mz6jMXb4HUtOFxNm67qotqWUSwUFWIt52YgkBshJ0Gp3O1VpuGX7NoXQjKmXR7dlZjNm1zMWEg89D1POXhTPcuCytzu0bvAJ1gOIKjSZIAWavPF+LdwhFtS1zKSqKMxCgb5Rv0A5n30tcjY22jm4qvU7lRsXrd63Ih0aQQw36gg6UNf4KshrJ7lhA8A0I6ZQQP15zSe1iHUsyswJksbZDBt5fu2IIYHfaP4RRtrjD5Jz2yUKliFbxIdCcsCDqOnuGp0bHU/aeJn2kdRXxbFMCiNelsrIQCdp/FscykdTprJpv2Cxnc4g23GXvAE10IYSVBETOpESBqd9KI/YEuX0usGi2oK5tmY6g5Dtl92p20p9hMTkO0jp05SD1iR6V2l0GTNpN6AcjrzXvMmTVoj+mf1PiNsZgkuxmBzD2XUkMv+FhqPTY86VX+F942S8JaPBiEABaPu3F2z9OusZTTi3cDAEGQaBvYtbd8d4uVXUIl3OcpMk5GU6Keh1nX0rz6O6kqOx+4moSs4/hD2ZV4gyFaPCZ6EkQTzQkT/APc2qEYi4NJVo08doXCv8OZrbEAfhMR+EVbLuKu2pF9BctazctgyB/HZ106lSfShG7NWL0PbchCPCEVHWP4S1toH8IMDoK2pqePvEK55xhrtogZFAIJ8RUSPP1IipnGaJJ8tNY6mtVlXk/qjDD+FYW3fuFWtZxEZpKxBBiRvpOm/pVg4jcCoLamCdAAFPh2IIOwI51usqaHGMuvRH6AuJ1LFcfEFtWtKmFqsrK9/U88SZvu6S8YxmfwrqBuevp19ayspeSP06gtZiq5ZPSoWs1lZWZlE3KxnC2iPOu8Pw9rh0BnoBM/p76ysrHk02NjdVHesyg1FvEbJS4yHcH/yPkRQ1ZWVymFGp2sR3KCfA/tHXZ2/ZVkNxZhhPmJ2HQxRPD8N31x3Y6knltr/AEKysrOXZQygy8fLlYyTgtj+7MCdQRmzc9zJUjTbT50l4nw3I2UMGG4K+pGvnI86ysrJ6jXNOpQbN0a8MtsqIQzaLB896X9pVy2EHIMFHplaF9NBpWVlDiJOYfnOQn+5+s54aRcS3lJBTKpIGpgAlJ/CSaKXCqUe2SYcsxOm5M9PdWVlMysQxAh5CQTCbinTLCyVLaA5lGhU+o0pLxnwKLYOha47RoNSIEdB+VZWVMJ+4CXh/qENwqwijoB9KhfirW7kLEDcESCfPn9K3WU4KGPM6ObnHRlg4RxPDXjDqEfaGiCfJo+Rj31YLXCrHNB8B+lZWVytUvpt9pnM2i4SyWMOBcW0mf7mmsxG/IQdTQ+AxDly0hrzmFJ2B/EeiqNIrVZS8fKFj3NeFRsJnm12zeS9czuGuZ2LOGkM2YyynQ5Z5+dMV4hi2GRZOYBC4WSi/izATOpAn661lZXbxgOy7h7zFkNAmWjhuFNpArNmjnrty0JMacqKBrdZXtsONcaBV6nlnYuWY9xxwm/KZdZXT3cv9KkW4LpZCge0V9qVZWMkFCu+lZWV88+pIMeqfb5/uLnc0zE4luQ2OGNaZTZuPkB1tO2ZY28JILIRuADBiNJmt4ngVlmLFSCdTkdkBPXKuk+dZWVhGVjzHz//2Q=="/></p>
+<p>╚════════════════════════════════════════════════════════════════════════════════════╝</p>
+      <p>╔════════════════════════════════════════════════════════════════════════════════════╗</p>
+      <h2 id="версії">Версії </h2>
+          <table style="border: solid red;">
+        <tr>
+            <td style="border: solid blue;">Версія</td>
+            <td style="border: solid blue;">Випуск</td>
+            <td style="border: solid blue;">Оновлення</td>
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.0</td>
+            <td style="border: solid red;">18 листопада 2011р.</td>
+            <td style="border: solid red;">---------------</td>
+
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.1</td>
+            <td style="border: solid red;">12 січня 2012р.</td>
+            <td style="border: solid red;">---------------</td>
+        </tr>
+              <tr>
+            <td style="border: solid red;">1.2</td>
+            <td style="border: solid red;">1 березня 2012р.</td>
+            <td style="border: solid red;">---------------</td>
+        </tr>
+             <tr>
+            <td style="border: solid red;">1.3</td>
+            <td style="border: solid red;">1 серпня 2012р.</td>
+            <td style="border: solid red;">---------------</td>
+        </tr>
+                <tr>
+            <td style="border: solid red;">1.4</td>
+            <td style="border: solid red;">25 жовтня 2012р.</td>
+            <td style="border: solid red;">Pretty Scary Update</td>
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.5</td>
+            <td style="border: solid red;">13 березня 2013р.</td>
+            <td style="border: solid red;">Redstone Update</td>
+
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.6</td>
+            <td style="border: solid red;">1 липня 2013р.</td>
+            <td style="border: solid red;">Horse Update</td>
+        </tr>
+              <tr>
+            <td style="border: solid red;">1.7</td>
+            <td style="border: solid red;">25 жовтня 2013р.</td>
+            <td style="border: solid red;">The Update that Changed the World</td>
+        </tr>
+             <tr>
+            <td style="border: solid red;">1.8</td>
+            <td style="border: solid red;">2 вересня 2014р.</td>
+            <td style="border: solid red;">Bountiful Update</td>
+        </tr>
+                <tr>
+            <td style="border: solid red;">1.9</td>
+            <td style="border: solid red;">29 лютого 2016р.</td>
+            <td style="border: solid red;">Combat Update</td>
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.10</td>
+            <td style="border: solid red;">8 червня 2016р.</td>
+            <td style="border: solid red;">Frostburn Update</td>
+
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.11</td>
+            <td style="border: solid red;">14 листопада 2016р.</td>
+            <td style="border: solid red;">Exploration Update</td>
+        </tr>
+              <tr>
+            <td style="border: solid red;">1.12</td>
+            <td style="border: solid red;">7 червня 2017р.</td>
+            <td style="border: solid red;">World of Color Update</td>
+        </tr>
+             <tr>
+            <td style="border: solid red;">1.13</td>
+            <td style="border: solid red;">18 липня 2018р.</td>
+            <td style="border: solid red;">Update Aquatic</td>
+        </tr>
+                <tr>
+            <td style="border: solid red;">1.14</td>
+            <td style="border: solid red;">23 квітня 2019р.</td>
+            <td style="border: solid red;">Village and Pillage</td>
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.15</td>
+            <td style="border: solid red;">10 грудня 2019р.</td>
+            <td style="border: solid red;">Buzzy Bees</td>
+        </tr>
+        <tr>
+            <td style="border: solid red;">1.16</td>
+            <td style="border: solid red;">23 червня 2020р.</td>
+            <td style="border: solid red;">Nether Update</td>
+        </tr>
+              <tr>
+            <td style="border: solid red;">1.17</td>
+            <td style="border: solid red;">8 червня 2021р.</td>
+            <td style="border: solid red;">Caves & Cliffs(частина 1) </td>
+
+        </tr>
+             <tr>
+            <td style="border: solid red;">1.18</td>
+            <td style="border: solid red;">30 листопада 2021р.</td>
+            <td style="border: solid red;">Caves & Cliffs(частина 2) </td>
+        </tr>
+    
+             <tr>
+            <td style="border: solid red;">1.19</td>
+            <td style="border: solid red;">7 червня 2022р.</td>
+            <td style="border: solid red;">The Wild Update</td>
+        </tr>  
+             <tr>
+            <td style="border: solid red;">1.20</td>
+            <td style="border: solid red;">7 червня 2023р.</td>
+            <td style="border: solid red;">Trails & Tales</td>
+        </tr>
+    </table>
+      <p>╚════════════════════════════════════════════════════════════════════════════════════╝</p>
+    </main>
+    <footer>
+        <p>За питання пишіть на номер +380657786583</p>
+             <a href="https://www.minecraft.net/ru-ru" id="майн">Офіційний сайт Minecraft</a><p></p>
+       <a href="https://ru.wikipedia.org/wiki/Minecraft" id="майн">Ще більше інформації про Minecraft</a>
+    </footer>
+    </body>
+</html>
+
